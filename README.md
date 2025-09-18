@@ -35,6 +35,15 @@
 
 ---
 
+### 📌 Key Focus Areas
+- 🧠 Designing **robust and reusable system architectures**
+- ⚙️ Developing **cross-platform GUI tools** using Java Swing & Win32 APIs
+- ☁️ Building **RESTful microservices** with Spring Boot
+- 📦 Creating **developer utilities and productivity tools**
+- 🧪 Practicing **Data Structures & Algorithms** for strong problem-solving skills
+
+---
+
 ### 🛠 Tech Stack
 
 **Languages:**  
@@ -56,13 +65,6 @@
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-
----
-
-### 💡 Dev Mood
-☕ Morning: Designing system logic & DSA practice  
-🎧 Afternoon: Building backend REST APIs with Spring Boot  
-🌙 Night: Coding GUI utilities using Java Swing and Win32 APIs  
 
 ---
 
