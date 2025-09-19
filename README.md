@@ -94,7 +94,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/kartik-jare-882a90340/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/kartikjare/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/></a>
   <a href="https://github.com/KartikJare"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/></a>
   <a href="mailto:your-kartikgjare.gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
