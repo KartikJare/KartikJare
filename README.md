@@ -26,7 +26,7 @@
 
 ---
 
-### 📚 Learning & Growth Tracker
+### 📚 Currently Learning
 <p align="center">
   <img src="https://img.shields.io/badge/Currently%20Learning-Spring%20Boot-blueviolet" />
   <img src="https://img.shields.io/badge/Currently%20Learning-Windows%20SDK%20Win32-green" />
@@ -59,12 +59,18 @@
 <img src="https://img.shields.io/badge/Windows%20SDK%20(Win32)-0078D6?style=flat&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Java%20Swing-5382A1?style=flat&logo=java&logoColor=white" />
 
-**Tools & Others:**  
+**Tools & IDEs:**  
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+
+**Databases:**  
+<img src="https://img.shields.io/badge/Oracle-FF0000?style=flat&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 
 ---
 
@@ -96,7 +102,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kartikjare/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/></a>
   <a href="https://github.com/KartikJare"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/></a>
-  <a href="mailto:your-kartikgjare.gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kartikgajare@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
