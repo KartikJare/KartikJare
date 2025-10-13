@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Ganesh Jare</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=00FFDD&center=true&vCenter=true&width=900&lines=B.Com+Graduate+%7C+Software+Developer;GUI+%26+System+Development+%7C+Java+%7C+Spring+Boot;Windows+SDK+%7C+Java+Swing+%7C+Full-Stack+Projects;Building+Scalable+%26+Impactful+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=00FFDD&center=true&vCenter=true&width=900&lines=Software+Developer;GUI+%26+System+Development+%7C+Java+%7C+Spring+Boot;Windows+SDK+%7C+Java+Swing+%7C+Full-Stack+Projects;Building+Scalable+%26+Impactful+Software" />
 </h3>
 
 <p align="center">
@@ -18,8 +18,8 @@
 ---
 
 ### 🚀 About Me
-- 🎓 B.Com graduate passionate about programming and systems development  
-- 💻 Specialized in **GUI Applications (Java Swing, Win32 SDK)** and **Backend Development (Spring Boot)**  
+- 💻 Passionate **Software Developer** with a strong focus on **system design and GUI-based applications**  
+- 🎯 Specialized in **Java Swing, Spring Boot**, and **Windows SDK (Win32 APIs)**  
 - ⚙️ Interested in building **system utilities, reusable developer tools, and scalable backend services**  
 - 🌱 Currently exploring **Spring Boot microservices** and **Windows SDK (Win32 APIs)**  
 - ⚡ Loves working on **low-level system logic + modern Java frameworks**
