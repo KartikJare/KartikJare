@@ -44,6 +44,8 @@ Backend & Systems Software Developer | Java & Win32 Specialist ⚙️
 ---
 
 ## 🔬 Currently Building
+### 💻 Languages
+C | C++ | C# | Java | Python | JavaScript  
 
 - Microservice-based backend systems using **Spring Boot**
 - Advanced Windows system utilities using **Win32 APIs**
